@@ -7,7 +7,7 @@
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Brad Traversy",
+  "author": "Sanan Aggarwal",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
@@ -16,5 +16,8 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
+  },
+  "engines": {
+    "node": "10.x"
   }
 }
